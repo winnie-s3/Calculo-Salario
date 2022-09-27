@@ -1,0 +1,28 @@
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\exercicio2\exercicio2\bin\Debug\exercicio2.exe.config
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\exercicio2\exercicio2\bin\Debug\exercicio2.exe
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\exercicio2\exercicio2\bin\Debug\exercicio2.pdb
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\exercicio2\exercicio2\obj\Debug\exercicio2.csprojResolveAssemblyReference.cache
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\exercicio2\exercicio2\obj\Debug\exercicio2.Form1.resources
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\exercicio2\exercicio2\obj\Debug\exercicio2.Properties.Resources.resources
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\exercicio2\exercicio2\obj\Debug\exercicio2.csproj.GenerateResource.Cache
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\exercicio2\exercicio2\obj\Debug\exercicio2.exe
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\exercicio2\exercicio2\obj\Debug\exercicio2.pdb
+E:\DS\exercicio2\exercicio2\bin\Debug\exercicio2.exe.config
+E:\DS\exercicio2\exercicio2\obj\Debug\exercicio2.exe
+E:\DS\exercicio2\exercicio2\obj\Debug\exercicio2.csprojResolveAssemblyReference.cache
+E:\DS\exercicio2\exercicio2\obj\Debug\exercicio2.Form1.resources
+E:\DS\exercicio2\exercicio2\obj\Debug\exercicio2.Properties.Resources.resources
+E:\DS\exercicio2\exercicio2\obj\Debug\exercicio2.csproj.GenerateResource.Cache
+E:\DS\exercicio2\exercicio2\bin\Debug\exercicio2.exe
+E:\DS\exercicio2\exercicio2\bin\Debug\exercicio2.pdb
+E:\DS\exercicio2\exercicio2\obj\Debug\exercicio2.pdb
+C:\Users\winni\Downloads\exercicio2\exercicio2\bin\Debug\exercicio2.exe.config
+C:\Users\winni\Downloads\exercicio2\exercicio2\bin\Debug\exercicio2.exe
+C:\Users\winni\Downloads\exercicio2\exercicio2\bin\Debug\exercicio2.pdb
+C:\Users\winni\Downloads\exercicio2\exercicio2\obj\Debug\exercicio2.csproj.AssemblyReference.cache
+C:\Users\winni\Downloads\exercicio2\exercicio2\obj\Debug\exercicio2.Form1.resources
+C:\Users\winni\Downloads\exercicio2\exercicio2\obj\Debug\exercicio2.Properties.Resources.resources
+C:\Users\winni\Downloads\exercicio2\exercicio2\obj\Debug\exercicio2.csproj.GenerateResource.cache
+C:\Users\winni\Downloads\exercicio2\exercicio2\obj\Debug\exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\winni\Downloads\exercicio2\exercicio2\obj\Debug\exercicio2.exe
+C:\Users\winni\Downloads\exercicio2\exercicio2\obj\Debug\exercicio2.pdb

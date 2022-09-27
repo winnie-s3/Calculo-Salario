@@ -1,0 +1,10 @@
+C:\Users\winni\Downloads\exercicio2\exercicio2\bin\Debug\exercicio2.exe.config
+C:\Users\winni\Downloads\exercicio2\exercicio2\bin\Debug\exercicio2.exe
+C:\Users\winni\Downloads\exercicio2\exercicio2\bin\Debug\exercicio2.pdb
+C:\Users\winni\Downloads\exercicio2\exercicio2\obj\Debug\calculadora_salario.csproj.AssemblyReference.cache
+C:\Users\winni\Downloads\exercicio2\exercicio2\obj\Debug\exercicio2.Form1.resources
+C:\Users\winni\Downloads\exercicio2\exercicio2\obj\Debug\exercicio2.Properties.Resources.resources
+C:\Users\winni\Downloads\exercicio2\exercicio2\obj\Debug\calculadora_salario.csproj.GenerateResource.cache
+C:\Users\winni\Downloads\exercicio2\exercicio2\obj\Debug\calculadora_salario.csproj.CoreCompileInputs.cache
+C:\Users\winni\Downloads\exercicio2\exercicio2\obj\Debug\exercicio2.exe
+C:\Users\winni\Downloads\exercicio2\exercicio2\obj\Debug\exercicio2.pdb
